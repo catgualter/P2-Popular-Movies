@@ -1,0 +1,77 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorAccent">@color/accent_color</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+    </style>
+
+    <style name="GridViewSingleLine">
+        <item name="android:layout_height">48dp</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/text_icons</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:background">#ba7c4dff</item>
+    </style>
+
+    <style name="MovieTitleTextStyle">
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/primary_text</item>
+        <item name="android:layout_gravity">start</item>
+        <item name="android:layout_toRightOf">@+id/moviePoster</item>
+        <item name="android:layout_below">@+id/backdrop</item>
+        <item name="android:layout_height">wrap_content</item>
+
+    </style>
+
+    <style name="ReleaseDateTextStyle">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/secondary_text</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+
+    </style>
+    <style name="OverviewTextStyle">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:textColor">@color/secondary_text</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_below">@+id/moviePoster</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+
+
+    </style>
+    <style name="RatingsTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <!--<item name="android:layout_gravity">right</item>-->
+        <item name="android:textSize">40sp</item>
+        <!--<item name="android:textSize">16sp</item>-->
+        <item name="android:textColor">@color/primary</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+
+
+    </style>
+
+    <style name="BackdropStyle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">200dp</item>
+        <item name="android:layout_gravity">left|top</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+</resources>

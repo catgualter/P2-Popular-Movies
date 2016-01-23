@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/catgualter/Projects/Android-Nanodegree/P2-PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/catgualter/Projects/Android-Nanodegree/P2-PopularMovies/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-71b277cc5ec0aee118effa3cc66b9fe109b8c230.jar" />
+    </item>
+    <item
+        jar="/Users/catgualter/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/Users/catgualter/Projects/Android-Nanodegree/P2-PopularMovies/app/build/intermediates/pre-dexed/debug/okio-1.4.0-d9d7d81f4364b428bde4bdfe904ea32694f569bf.jar" />
+    </item>
+    <item
+        jar="/Users/catgualter/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/catgualter/Projects/Android-Nanodegree/P2-PopularMovies/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-8dd9f9b3c2add3d77bc0f7d9f821228e808481c3.jar" />
+    </item>
+    <item
+        jar="/Users/catgualter/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/catgualter/Projects/Android-Nanodegree/P2-PopularMovies/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-1a0c50a3065fc50d3c73647a7b2f11cc89fddad3.jar" />
+    </item>
+    <item
+        jar="/Users/catgualter/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/catgualter/Projects/Android-Nanodegree/P2-PopularMovies/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-b1141d276d4e64447e5c86770687235312177e36.jar" />
+    </item>
+    <item
+        jar="/Users/catgualter/Projects/Android-Nanodegree/P2-PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/catgualter/Projects/Android-Nanodegree/P2-PopularMovies/app/build/intermediates/pre-dexed/debug/classes-3d178c5c49d6caa561be098be9a2c1f85d0c97b5.jar" />
+    </item>
+    <item
+        jar="/Users/catgualter/Projects/Android-Nanodegree/P2-PopularMovies/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/catgualter/Projects/Android-Nanodegree/P2-PopularMovies/app/build/intermediates/pre-dexed/debug/classes-c311a7e5d0ab4d291aede0e4ae2e040893c602e3.jar" />
+    </item>
+    <item
+        jar="/Users/catgualter/Projects/Android-Nanodegree/P2-PopularMovies/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/catgualter/Projects/Android-Nanodegree/P2-PopularMovies/app/build/intermediates/pre-dexed/debug/classes-f0ecc855608707b536fa5ac58e10af7d0eee66d3.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Code Reference: http://blog.quent.in/index.php/2013/06/activity-transition-animations-like-the-vine-android-application/
+-->
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <translate android:fromXDelta="100%"
+        android:toXDelta="0%"
+        android:duration="@android:integer/config_mediumAnimTime" />
+
+</set><!-- From: file:/Users/catgualter/Projects/Android-Nanodegree/P2-PopularMovies/app/src/main/res/anim/activity_open_translate.xml -->

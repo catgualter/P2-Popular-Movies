@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.anagualter.popularmovies2.MovieReviewFragment"
+    android:background="#e2000000"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="CLOSE"
+            android:id="@+id/closeReviews"
+            android:layout_gravity="right"
+            android:layout_margin="16dp"
+            android:textColor="@color/text_icons" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Reviews"
+            android:id="@+id/textView"
+            android:textColor="@color/accent_color"
+            android:paddingTop="10dp"
+            android:paddingLeft="16dp"
+            android:paddingBottom="16dp"
+            android:paddingRight="16dp" />
+
+    </LinearLayout>
+
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:id="@+id/movieReviewList" />
+
+</LinearLayout>
+<!-- From: file:/Users/catgualter/Projects/Android-Nanodegree/P2-PopularMovies/app/src/main/res/layout/fragment_fragment_movie_reviews.xml -->
